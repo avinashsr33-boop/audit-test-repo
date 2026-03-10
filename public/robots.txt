@@ -1,0 +1,27 @@
+# robots.txt for example.com
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /tmp/
+
+Sitemap: https://example.com/sitemap1.xml
+Sitemap: https://example.com/sitemap2.xml
+Sitemap: https://example.com/sitemap3.xml
+Sitemap: https://example.com/sitemap4.xml
+Sitemap: https://example.com/sitemap5.xml
+Sitemap: https://example.com/sitemap6.xml
+Sitemap: https://example.com/sitemap7.xml
+Sitemap: https://example.com/sitemap8.xml
+Sitemap: https://example.com/sitemap9.xml
+Sitemap: https://example.com/sitemap10.xml
