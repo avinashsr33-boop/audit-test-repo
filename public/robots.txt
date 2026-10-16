@@ -24,4 +24,3 @@ Sitemap: https://example.com/sitemap6.xml
 Sitemap: https://example.com/sitemap7.xml
 Sitemap: https://example.com/sitemap8.xml
 Sitemap: https://example.com/sitemap9.xml
-Sitemap: https://example.com/sitemap10.xml
